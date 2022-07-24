@@ -1,17 +1,17 @@
 Function Uninstall-AutoLogin{
 
-    <#
-	.SYNOPSIS
-	Edits the registry to allow for automatic log in
-	.DESCRIPTION
-	Edits the registry to allow for automatic log in. Removes login information for an administrator account
-	.PARAMETER logPath
-	Optional. Used for logging the process in a text file
-	.EXAMPLE
-	Uninstall-AutoLogin -logPath "C:\users\user\
-	.LINK
-	Install-AutoLogin
-    #>
+<#
+.SYNOPSIS
+Edits the registry to allow for automatic log in
+.DESCRIPTION
+Edits the registry to allow for automatic log in. Removes login information for an administrator account
+.PARAMETER logPath
+Optional. Used for logging the process in a text file
+.EXAMPLE
+Uninstall-AutoLogin -logPath "C:\users\user\
+.LINK
+Install-AutoLogin
+#>
 
     [CmdletBinding()]
     param ()
