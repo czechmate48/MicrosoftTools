@@ -1,4 +1,4 @@
-Function Test-Pingable{
+Function Test-PTPingable{
     
     <#
     .SYNOPSIS
