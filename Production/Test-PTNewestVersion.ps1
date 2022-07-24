@@ -1,4 +1,4 @@
-Function Test-NewestVersion {
+Function Test-PTNewestVersion {
 
     <#
     .SYNOPSIS
