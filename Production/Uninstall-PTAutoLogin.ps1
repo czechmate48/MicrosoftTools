@@ -1,4 +1,4 @@
-Function Uninstall-AutoLogin{
+Function Uninstall-PTAutoLogin{
 
 <#
 .SYNOPSIS
