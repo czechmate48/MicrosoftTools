@@ -1,4 +1,4 @@
-Function Test-PTNewestVersion {
+Function Test-MTProgramVersion {
 
     <#
     .SYNOPSIS
