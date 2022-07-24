@@ -1,4 +1,4 @@
-Function Install-PTAutoLogin {
+Function Install-MTAutoLogin {
 
      <#
 	.SYNOPSIS
